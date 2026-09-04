@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Allow: /products/
+Allow: /guides/
+Allow: /guides/shipping-info.html
+Allow: /guides/returns-policy.html
+Allow: /blog/
+
+Sitemap: https://memoryprints.com/sitemap.xml
+
+# Crawl-delay: 1

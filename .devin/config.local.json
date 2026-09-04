@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Exec(mkdir css)",
+      "Exec(dir)",
+      "Exec(md css)",
+      "Exec(md js)",
+      "Exec(md images)",
+      "Exec(md products)",
+      "Exec(md blog)",
+      "Exec(md guides)",
+      "Exec(curl)"
+    ]
+  }
+}
