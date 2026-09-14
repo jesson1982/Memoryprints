@@ -312,4 +312,28 @@
         <changefreq>yearly</changefreq>
         <priority>0.5</priority>
     </url>
+  <url>
+    <loc>https://memoryprints.shop/blog/personalized-employee-anniversary-gifts.html</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://memoryprints.shop/blog/photo-blanket-sizes-for-family-photos.html</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://memoryprints.shop/blog/trade-show-giveaways-people-keep.html</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://memoryprints.shop/blog/how-to-store-photo-blankets-long-term.html</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
